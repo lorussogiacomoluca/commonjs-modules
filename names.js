@@ -5,3 +5,5 @@ const names = function(firstName, lastName){
     }
     return 
 }
+
+module.exports = names
