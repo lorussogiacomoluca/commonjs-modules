@@ -10,3 +10,4 @@ function createPerson(){
     }
 }
 
+console.log(createPerson())
